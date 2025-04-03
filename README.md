@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @SithLord27
-- I am a young science and tech enthusiast. My interests span Physics, Mathematics, Cosmology, and CS.
+- I am a high school student. My interests span Physics, Mathematics, Cosmology, and CS.
 - I am new here and trying to learn git, and dev in general.
 
 <!---
