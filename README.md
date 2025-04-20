@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @SithLord27
+- 👋 Hi there, I’m Ritesh Nandi a.k.a. @SithLord27
 - I am a high school student. My interests span Physics, Mathematics, Cosmology, and CS.
 - I am new here and trying to learn git, and dev in general.
 
