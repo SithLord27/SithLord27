@@ -1,4 +1,4 @@
-N- 👋 Hi there, I’m Ritesh Nandi, a.k.a. @SithLord27
+ 👋 Hi there, I’m Ritesh Nandi, a.k.a. @SithLord27
 - I am a high school student. My interests span Physics(particularly Particle Physics and Cosmology) and Mathematics.
  <p> “Somewhere, something incredible is waiting to be known.”― Carl Sagan
 <!---
